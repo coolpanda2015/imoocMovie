@@ -1,0 +1,22 @@
+{
+  "name": "imovie",
+  "authors": [
+    "HC200ok"
+  ],
+  "description": "imooc movie",
+  "main": "",
+  "moduleType": [],
+  "keywords": [
+    "mooc"
+  ],
+  "license": "MIT",
+  "homepage": "",
+  "private": true,
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
